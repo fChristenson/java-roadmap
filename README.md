@@ -12,10 +12,11 @@ This is a roadmap for becoming a full stack [Java](./backend/java/java.md) devel
 
 * [Backend](./backend/backend.md)
   * [Architecture](./backend/architecture/architecture.md)
+  * [Application servers](./backend/application_servers/application_servers.md)
   * [Client validation](./backend/client_validation/client_validation.md)
   * [Databases](./backend/databases/databases.md)
-  * [Message queues](./backend/message_queues/message_queues.md)
   * [Java](./backend/java/java.md)
+  * [Message queues](./backend/message_queues/message_queues.md)
 
 * [Editors](./editors/editors.md)
 

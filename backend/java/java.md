@@ -10,6 +10,9 @@ To most Java consists of two vital parts [Java SE](https://docs.oracle.com/javas
 makes up the core of the language and [Java EE](https://docs.oracle.com/javaee/7/tutorial/) which
 contains many of the tools developed for enterprise development.
 
+It is worth noting that [Java](https://www.java.com/) is not just for web and mobile and can run
+both desktop applications and embedded device systems as well.
+
 ## Android
 
 The [Android](https://en.wikipedia.org/wiki/Android_(operating_system)) platform uses [Java](https://www.java.com/) as it's main programming language and
@@ -25,7 +28,6 @@ You can find more information [here](https://en.wikipedia.org/wiki/List_of_JVM_l
 
 ## Common tools
 
-* [Tomcat](http://tomcat.apache.org/)
 * [Java EE](https://docs.oracle.com/javaee/7/tutorial/)
 * [Spring](https://spring.io/projects/spring-framework)
 * [Spring boot](https://spring.io/projects/spring-boot)
