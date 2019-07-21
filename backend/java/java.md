@@ -15,7 +15,7 @@ contains many of the tools developed for enterprise development.
 The [Android](https://en.wikipedia.org/wiki/Android_(operating_system)) platform uses [Java](https://www.java.com/) as it's main programming language and
 although [Kotlin](https://kotlinlang.org/docs/tutorials/kotlin-android.html) has at the time of
 writing this document started to become more common [Java](https://www.java.com/) is still very 
-much relevant for [Android](https://en.wikipedia.org/wiki/Android_(operating_system)) platform uses [Java](https://www.java.com/) development
+much relevant for [Android](https://en.wikipedia.org/wiki/Android_(operating_system)).
 
 ## JVM languages
 
